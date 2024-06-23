@@ -4,11 +4,11 @@ This is a web based game application of the popular tictactoe game with some `un
 
 ## Features 
 
--it has a comment section.
+- it has a comment section.
 
--it has some `time-travel` buttons, that helps the players return to a previous state and additionaly a clear button.
+- it has some `time-travel` buttons, that helps the players return to a previous state and additionaly a clear button.
 
--it indicates the win squares when there is a winner.
+- it indicates the win squares when there is a winner.
 
 ## How to get started 
 
